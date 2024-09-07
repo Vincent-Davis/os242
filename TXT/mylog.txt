@@ -7,4 +7,5 @@ ZCZC W01 99 L02 Attending OS Lecture (Wednesday)
 ZCZC W01 110 L11 Debian and VirtualBox setup and installation
 ZCZC W01 50 L11 Connecting to Github  
 ZCZC W01 30 L05 Quiz 1
-ZCZC W01 90 L00 Collect my fixed Laptop 
+ZCZC W01 90 L00 Collect my fixed Laptop
+ZCZC W01 30 L11 Creating links.md and index.md
