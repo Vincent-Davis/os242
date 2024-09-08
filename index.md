@@ -1,5 +1,5 @@
 ---
-title: OS242: Vincent-Davis
+title: "OS242: Vincent-Davis"
 layout: default
 ---
 
