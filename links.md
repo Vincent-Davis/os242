@@ -12,5 +12,10 @@ permalink: LINKS/
 * [Adding Username]( https://doit.vlsm.org/022.html) --- You can add new username with capital letters to match your github username.
 * [Git Documentation](https://git-scm.com/doc) --- Comprehensive documentation for Git, including tutorials and references.  
 * [GitHub Guides](https://guides.github.com/) --- Guides to help you understand how to use GitHub for your projects.
+* [GnuPG Official Website](https://www.gnupg.org/) --- Official website for GnuPG, including downloads and documentation.
+* [GnuPG Documentation](https://www.gnupg.org/documentation/) --- Official documentation for GnuPG.
+* [GNU Privacy Handbook](https://www.gnupg.org/gph/en/manual.html) --- A comprehensive guide to using GnuPG and GPG keys.
 <br>
 <br>
+#### REV: Wed 11 Sep 2024 12:45
+<hr>

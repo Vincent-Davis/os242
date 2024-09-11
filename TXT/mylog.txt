@@ -11,4 +11,13 @@ ZCZC W01 30 L05 Quiz 1
 ZCZC W01 90 L00 Collect my fixed Laptop
 ZCZC W01 30 L11 Creating links.md and index.md
 ZCZC W01 90 L00 Going to the Church
-ZCZC W01 40 L21 Practicing VIM Hotkeys 
+ZCZC W01 40 L21 Practicing VIM Hotkeys
+
+ZCZC W02 99 L02 Attending OS Lecture (Monday)
+ZCZC W02 90 L02 Attending OS Lecture (Wednesday)
+ZCZC W02 30 L12 Creating GNU Keys
+ZCZC W02 10 L12 Updating links.md
+ZCZC W02 25 L12 Peer reviewing links
+ZCZC W02 30 L05 Quiz 2
+ZCZC W02 60 L12 Doing Pop Quizzes
+ZCZC W02 20 L12 Trying and doing checksum 
