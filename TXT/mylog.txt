@@ -21,3 +21,12 @@ ZCZC W02 25 L12 Peer reviewing links
 ZCZC W02 30 L05 Quiz 2
 ZCZC W02 60 L12 Doing Pop Quizzes
 ZCZC W02 20 L12 Trying and doing checksum 
+
+ZCZC W03 99 L02 Attending OS Lecture (Wednesday)
+ZCZC W03 99 L02 Attending OS Lecture (Monday)
+ZCZC W03 30 L13 Adding new virtual disk to VM
+ZCZC W03 30 L13 Doing the pop quizess
+ZCZC W03 25 L13 Peer reviewing links
+ZCZC W03 15 L13 Updating links.md
+ZCZC W03 30 L05 Quiz 3
+ZCZC W03 90 L00 Going to the Church
