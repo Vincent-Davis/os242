@@ -30,3 +30,14 @@ ZCZC W03 25 L13 Peer reviewing links
 ZCZC W03 15 L13 Updating links.md
 ZCZC W03 30 L05 Quiz 3
 ZCZC W03 90 L00 Going to the Church
+
+ZCZC W04 99 L02 Attending OS Lecture (Wednesday)
+ZCZC W04 99 L02 Attending Online OS Lecture(Monday)
+ZCZC W04 10 L14 Updating linux
+ZCZC W04 20 L14 Compiling TLPI
+ZCZC W04 50 L14 Doing the pop quizess
+ZCZC W04 25 L14 Peer reviewing links
+ZCZC W04 15 L14 Updating links.md
+ZCZC W04 30 L05 Quiz 4
+ZCZC W04 90 L00 Going to the Church
+

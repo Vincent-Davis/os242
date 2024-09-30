@@ -25,8 +25,13 @@ permalink: LINKS/
 * [GCC Compiler Guide](https://gcc.gnu.org/onlinedocs/gcc/) --- A guide on GCC, the most common compiler used to compile C programs.
 * [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/) --- Comprehensive tutorial on C programming, including how to write and compile C programs.
 
+### Week 4
+* [The Linux Programming Interface (TLPI) Book](https://man7.org/tlpi/) --- Official website for the TLPI book, including information on Linux system programming.
+* [TLPI Sample Code](https://man7.org/tlpi/code/) --- Access to sample code used in the TLPI book.
+* [TLPI Chapter Summaries](https://man7.org/tlpi/summary/) --- Summaries of the chapters in TLPI, covering various aspects of Linux programming.
+
 <br>
 <br>
-#### REV:SUN 22 Sep 2024 13:45
+#### REV:MON 30 Sep 2024 20:45
 <hr>
 
