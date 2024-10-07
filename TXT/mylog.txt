@@ -41,3 +41,13 @@ ZCZC W04 15 L14 Updating links.md
 ZCZC W04 30 L05 Quiz 4
 ZCZC W04 90 L00 Going to the Church
 
+ZCZC W05 99 L02 Attending OS Lecture (Wednesday)
+ZCZC W05 99 L02 Attending Online OS Lecture(Monday)
+ZCZC W05 10 L15 Updating linux
+ZCZC W05 30 L15 Finding the required size of vm memory
+ZCZC W05 60 L15 Doing the pop quizess
+ZCZC W05 25 L15 Peer reviewing links
+ZCZC W05 15 L15 Updating links.md
+ZCZC W05 30 L05 Quiz 5
+ZCZC W05 90 L00 Going to the Church
+

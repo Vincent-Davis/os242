@@ -30,6 +30,12 @@ permalink: LINKS/
 * [TLPI Sample Code](https://man7.org/tlpi/code/) --- Access to sample code used in the TLPI book.
 * [TLPI Chapter Summaries](https://man7.org/tlpi/summary/) --- Summaries of the chapters in TLPI, covering various aspects of Linux programming.
 
+### Week 5
+* [Debian System Requirements](https://www.debian.org/releases/stable/amd64/ch02s05.en.html) — Official documentation outlining the minimum hardware requirements for Debian.
+* [Linux Kernel Documentation on Memory Management](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html) — Official Linux documentation focusing on how memory management works in the Linux kernel.
+* [Troubleshooting Low Memory Issues](https://wiki.debian.org/LowMemorySystems) — Debian Wiki page dedicated to troubleshooting issues with low memory systems.
+* [Encrypting Files with GPG](https://www.gnupg.org/gph/en/manual/c14.html) — A guide on how to encrypt files using GPG keys, including command examples and best practices.
+
 <br>
 <br>
 #### REV:MON 30 Sep 2024 20:45
