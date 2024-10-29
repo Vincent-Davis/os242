@@ -57,6 +57,6 @@ ZCZC W06 10 L16 Updating linux
 ZCZC W06 30 L16 Doing the assignments
 ZCZC W06 60 L16 Doing the pop quizess
 ZCZC W06 120 L16 Creating docusaurus
-ZCZC W06 25 L15 Peer reviewing links
-ZCZC W06 15 L15 Updating links.md
+ZCZC W06 25 L16 Peer reviewing links
+ZCZC W06 15 L16 Updating links.md
 ZCZC W06 90 L00 Going to the Church
