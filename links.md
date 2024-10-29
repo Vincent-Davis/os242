@@ -36,8 +36,15 @@ permalink: LINKS/
 * [Troubleshooting Low Memory Issues](https://wiki.debian.org/LowMemorySystems) — Debian Wiki page dedicated to troubleshooting issues with low memory systems.
 * [Encrypting Files with GPG](https://www.gnupg.org/gph/en/manual/c14.html) — A guide on how to encrypt files using GPG keys, including command examples and best practices.
 
+### Week 6
+* [Process Control and Fork in C](https://man7.org/linux/man-pages/man2/fork.2.html) --- Detailed documentation on `fork()` in C, covering usage, system calls, and process management.
+* [Shared Memory in C (mmap and shm_open)](https://man7.org/linux/man-pages/man2/mmap.2.html) --- Documentation on `mmap` for memory mapping in processes, allowing shared memory access.
+* [Introduction to Memory Mapping (mmap)](https://www.gnu.org/software/libc/manual/html_node/Memory_002dmapped-I_002fO.html) --- Comprehensive guide on using `mmap` for creating and managing shared memory.
+* [Pointers and Address Arithmetic in C](https://www.cprogramming.com/tutorial/lesson6.html) --- Basics of address pointers, addressing in memory, and pointer arithmetic in C.
+* [Understanding malloc and Memory Allocation](https://www.gnu.org/software/libc/manual/html_node/Basic-Memory-Allocation.html) --- Guide on `malloc` for dynamic memory allocation in C, including details on managing pointers.
+
 <br>
 <br>
-#### REV:MON 30 Sep 2024 20:45
+#### REV:MON 29 OKT 2024 20:45
 <hr>
 
