@@ -43,8 +43,15 @@ permalink: LINKS/
 * [Pointers and Address Arithmetic in C](https://www.cprogramming.com/tutorial/lesson6.html) --- Basics of address pointers, addressing in memory, and pointer arithmetic in C.
 * [Understanding malloc and Memory Allocation](https://www.gnu.org/software/libc/manual/html_node/Basic-Memory-Allocation.html) --- Guide on `malloc` for dynamic memory allocation in C, including details on managing pointers.
 
+### Week 7
+* [Understanding Synchronization in Operating Systems](https://www.geeksforgeeks.org/synchronization-operating-system/) --- Comprehensive overview of synchronization in operating systems, including common techniques and challenges.
+* [Deadlock in Operating Systems](https://www.geeksforgeeks.org/deadlock-in-operating-system/) --- Explanation of deadlock concepts, conditions, and methods to prevent or avoid deadlock in systems.
+* [Mutex vs Semaphore](https://www.tutorialspoint.com/difference-between-mutex-and-semaphore) --- Comparison of mutexes and semaphores, two fundamental synchronization mechanisms.
+* [Dining Philosophers Problem and Solutions](https://www.cs.cornell.edu/courses/cs4410/2021fa/lectures/Lecture7-dining_philosophers.pdf) --- A classic synchronization problem with various solutions to illustrate deadlock and starvation prevention.
+* [Banker’s Algorithm for Deadlock Avoidance](https://www.studytonight.com/operating-system/bankers-algorithm) --- Guide on the Banker’s Algorithm, a method used to avoid deadlock in resource allocation.
+
 <br>
 <br>
-#### REV:MON 29 OKT 2024 20:45
+#### REV:MON 4 NOV 2024 09:00
 <hr>
 

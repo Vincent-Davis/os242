@@ -60,3 +60,13 @@ ZCZC W06 120 L16 Creating docusaurus
 ZCZC W06 25 L16 Peer reviewing links
 ZCZC W06 15 L16 Updating links.md
 ZCZC W06 90 L00 Going to the Church
+
+ZCZC W07 99 L02 Attending OS Lecture (Wednesday)
+ZCZC W07 99 L02 Attending OS Lecture(Monday)
+ZCZC W07 10 L17 Updating linux
+ZCZC W07 30 L17 Doing the assignments
+ZCZC W07 60 L17 Doing the pop quizess
+ZCZC W07 120 L17 Creating docusaurus blog post
+ZCZC W07 25 L17 Peer reviewing links
+ZCZC W07 15 L17 Updating links.md
+ZCZC W07 30 L05 Quiz 6
