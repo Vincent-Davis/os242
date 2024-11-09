@@ -50,8 +50,16 @@ permalink: LINKS/
 * [Dining Philosophers Problem and Solutions](https://www.cs.cornell.edu/courses/cs4410/2021fa/lectures/Lecture7-dining_philosophers.pdf) --- A classic synchronization problem with various solutions to illustrate deadlock and starvation prevention.
 * [Banker’s Algorithm for Deadlock Avoidance](https://www.studytonight.com/operating-system/bankers-algorithm) --- Guide on the Banker’s Algorithm, a method used to avoid deadlock in resource allocation.
 
+### Week 8
+* [Linux From Scratch (LFS) Official Website](https://www.linuxfromscratch.org/) --- The official website for Linux From Scratch, providing detailed instructions on building your own Linux system.
+* [LFS 12.2 Book (Current Stable)](https://www.linuxfromscratch.org/lfs/view/stable/) --- The latest stable version of the LFS book, guiding users through each step of creating a Linux system from scratch.
+* [LFS Packages and Downloads](https://www.linuxfromscratch.org/lfs/view/stable/chapter03/packages.html) --- A list of necessary packages and sources required for building Linux From Scratch.
+* [LFS FAQ](https://www.linuxfromscratch.org/faq/) --- Frequently asked questions about Linux From Scratch to help resolve common issues.
+* [LFS System Requirements](https://www.linuxfromscratch.org/lfs/view/stable/prologue/requirements.html) --- Minimum requirements and recommended setup for building a Linux From Scratch system.
+* [Beyond Linux From Scratch (BLFS)](https://www.linuxfromscratch.org/blfs/view/stable/) --- For advanced users, BLFS provides additional instructions on building extra packages on top of LFS.
+
 <br>
 <br>
-#### REV:MON 4 NOV 2024 09:00
+#### REV:SAT 9 NOV 2024 23:00
 <hr>
 

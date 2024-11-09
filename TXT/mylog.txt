@@ -70,3 +70,13 @@ ZCZC W07 120 L17 Creating docusaurus blog post
 ZCZC W07 25 L17 Peer reviewing links
 ZCZC W07 15 L17 Updating links.md
 ZCZC W07 30 L05 Quiz 6
+
+ZCZC W08 99 L02 Attending OS Lecture (Wednesday)
+ZCZC W08 99 L02 Attending OS Lecture(Monday)
+ZCZC W08 10 L18 Updating linux
+ZCZC W08 60 L18 Doing the pop quizess
+ZCZC W08 240 L18 Doing LFS
+ZCZC W08 25 L18 Peer reviewing links
+ZCZC W08 15 L18 Updating links.md
+ZCZC W08 30 L05 Quiz 7
+
